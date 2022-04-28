@@ -18,5 +18,5 @@ git clone https://github.com/SanatNayak/ShellHelp.git
 cd ShellHelp
 ```
 ```
-ShellHelp.sh
+bash ShellHelp.sh
 ```
