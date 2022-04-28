@@ -12,6 +12,9 @@ ruby
 etc.
 # Instaillation Process
 ```
+pkg install git
+```
+```
 git clone https://github.com/SanatNayak/ShellHelp.git
 ```
 ```
